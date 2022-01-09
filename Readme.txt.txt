@@ -1,0 +1,1 @@
+A simple number generator for 50 numbers 
