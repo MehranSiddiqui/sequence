@@ -1,5 +1,6 @@
 @media (max-width:600px) {
     body{
+        font-family: 'Nunito', sans-serif;;
         display: flex;
         flex-direction: column;
         justify-content: center;
